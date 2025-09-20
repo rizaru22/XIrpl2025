@@ -1,4 +1,5 @@
-Daftar Nama Siswa Kelas XI RPL 1 2025
+Daftar Repositori Latihan Git dan Github Kelas XI RPL 1 2025
+Contoh: Safrizal/https://github.com/rizaru22/bel-sekolah
 1. 
 2. 
 3.
